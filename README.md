@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [1192-critical-connections-in-a-network](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1192-critical-connections-in-a-network) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0733-flood-fill](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Simulation
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1192-critical-connections-in-a-network) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Prefix Sum
 |  |
 | ------- |
