@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Stack
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
@@ -481,4 +486,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
