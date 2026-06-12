@@ -5,12 +5,12 @@ public:
         sort(s.begin(), s.end());
 
         int l=0, r=0;
-        while(l<s.size() && r<g.size()) {
-            if(s[l]>=g[r]) {
-                r=r+1;
+        while(l<g.size() && r<s.size()) {
+            if(s[r]>=g[l]) {
+                l++;
             }
-            l=l+1;
+            r++;
         }
-        return r;
+        return l;
     }
 };
