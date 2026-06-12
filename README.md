@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2407-longest-increasing-subsequence-ii) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3523-make-array-non-decreasing](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3523-make-array-non-decreasing) |
 | [3866-first-unique-even-element](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3866-first-unique-even-element) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3523-make-array-non-decreasing](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3523-make-array-non-decreasing) |
 ## Backtracking
 |  |
