@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
