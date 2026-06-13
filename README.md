@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -450,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 ## Recursion
