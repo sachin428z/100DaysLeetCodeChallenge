@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0826-most-profit-assigning-work](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0826-most-profit-assigning-work) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0826-most-profit-assigning-work](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
