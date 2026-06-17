@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2367-number-of-arithmetic-triplets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2367-number-of-arithmetic-triplets) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2413-smallest-even-multiple](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2413-smallest-even-multiple) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## Depth-First Search
@@ -617,5 +620,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2413-smallest-even-multiple](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2413-smallest-even-multiple) |
+## Geometry
+|  |
+| ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 <!---LeetCode Topics End-->
