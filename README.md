@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1833-maximum-ice-cream-bars](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1833-maximum-ice-cream-bars](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0826-most-profit-assigning-work) |
 | [0860-lemonade-change](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -689,4 +692,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
