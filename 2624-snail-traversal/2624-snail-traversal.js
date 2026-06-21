@@ -3,25 +3,15 @@
  * @param {number} colsCount
  * @return {Array<Array<number>>}
  */
-Array.prototype.snail = function(rowsCount, colsCount) {
-     if (rowsCount * colsCount !== this.length) return [];
-    const arr = this;
-
-    const res  = new Array(rowsCount).fill(0).map(() => new Array(colsCount).fill(0));
-    let isReversed = false;
-
-    for (let i = 0; i < this.length; i++) {
-        const row = !isReversed ? i % rowsCount : rowsCount - 1 - (i % rowsCount);
-        const col = Math.floor(i / rowsCount);
-
-        res[row][col] = arr[i];
-        
-        if ((i % rowsCount) === rowsCount - 1) {
-            isReversed = !isReversed;
-        }
+Array.prototype.snail = function(numRows, numCols) {
+  if (numRows * numCols !== this.length) return [];
+  let result = Array(numRows).fill().map(() => []);
+  for (let row = 0; row < numCols; row++) {
+    for (let col = 0; col < numRows; col++) {
+      result[(row & 1) ? numRows - col - 1 : col].push(this[row * numRows + col]);
     }
-
-    return res;
+  }
+  return result;
 }
 
 /**
