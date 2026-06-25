@@ -8,7 +8,7 @@ public:
             l++;
             r--;
         }
-        return false;
+        return true;
     }
 
     bool isStrictlyPalindromic(int n) {
