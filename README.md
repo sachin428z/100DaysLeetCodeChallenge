@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1837-sum-of-digits-in-base-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2413-smallest-even-multiple](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2413-smallest-even-multiple) |
