@@ -11,7 +11,7 @@ public:
             else left++;
 
         }
-        if(up-down==0 && right-left == 0) return true;
+        if(up-down==0 && right-left == 0) return true; // Condition
         else return false;
         }
 };
