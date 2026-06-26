@@ -1,8 +1,8 @@
 class Solution {
 public:
-    string build(string& s) {
+    string build(string& str) {
         stack<char> st;
-        for(char ch: s) {
+        for(char ch: str) {
             if(ch!='#') st.push(ch);
             else {
                 if(!st.empty()) st.pop();
@@ -18,6 +18,8 @@ public:
     }
 
     bool backspaceCompare(string s, string t) {
+        build(s);
+        build(t);
         return build(s)==build(t);
     }
 };
