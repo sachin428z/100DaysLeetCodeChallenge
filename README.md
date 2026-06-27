@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 | [0389-find-the-difference](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
