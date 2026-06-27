@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2367-number-of-arithmetic-triplets) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2833-furthest-point-from-origin](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 | [3866-first-unique-even-element](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3866-first-unique-even-element) |
