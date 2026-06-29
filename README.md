@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [0890-find-and-replace-pattern](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0922-sort-array-by-parity-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
+| [0890-find-and-replace-pattern](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
+| [0890-find-and-replace-pattern](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0917-reverse-only-letters) |
 | [1106-parsing-a-boolean-expression](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1106-parsing-a-boolean-expression) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
