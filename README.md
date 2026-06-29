@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
