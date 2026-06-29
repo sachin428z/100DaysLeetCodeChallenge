@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2103-rings-and-rods](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2103-rings-and-rods) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2810-faulty-keyboard](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2810-faulty-keyboard) |
