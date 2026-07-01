@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0312-burst-balloons) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
+| [0289-game-of-life](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
