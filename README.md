@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0312-burst-balloons) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 | [0622-design-circular-queue](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
@@ -878,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
