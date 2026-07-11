@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-shuffle-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1528-shuffle-string) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1598-crawler-log-folder](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1598-crawler-log-folder) |
@@ -896,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1732-find-the-highest-altitude](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [2552-count-increasing-quadruplets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2552-count-increasing-quadruplets) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
