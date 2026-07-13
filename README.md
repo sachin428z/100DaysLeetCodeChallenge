@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2552-count-increasing-quadruplets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2552-count-increasing-quadruplets) |
+| [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 ## Stack
 |  |
 | ------- |
