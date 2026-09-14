@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2932-maximum-strong-pair-xor-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2942-find-words-containing-character](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
