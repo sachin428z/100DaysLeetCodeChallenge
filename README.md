@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2055-plates-between-candles](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2055-plates-between-candles) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2000-reverse-prefix-of-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2055-plates-between-candles](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2055-plates-between-candles) |
 | [2103-rings-and-rods](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2103-rings-and-rods) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -844,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1603-design-parking-system](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2169-count-operations-to-obtain-zero) |
