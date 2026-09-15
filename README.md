@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [3131-find-the-integer-added-to-array-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3248-snake-in-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3248-snake-in-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3467-transform-array-by-parity) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2833-furthest-point-from-origin](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3248-snake-in-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3248-snake-in-matrix) |
 | [3330-find-the-original-typed-string-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3330-find-the-original-typed-string-i) |
 | [3412-find-mirror-score-of-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3412-find-mirror-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -860,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2161-partition-array-according-to-given-pivot](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2169-count-operations-to-obtain-zero) |
 | [2810-faulty-keyboard](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2810-faulty-keyboard) |
+| [3248-snake-in-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3248-snake-in-matrix) |
 | [3412-find-mirror-score-of-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3412-find-mirror-score-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3894-traffic-signal-color) |
