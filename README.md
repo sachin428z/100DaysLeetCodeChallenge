@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0812-largest-triangle-area](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0812-largest-triangle-area) |
 | [0826-most-profit-assigning-work](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0826-most-profit-assigning-work) |
 | [0827-making-a-large-island](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0827-making-a-large-island) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0542-01-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0827-making-a-large-island](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0827-making-a-large-island) |
 | [0980-unique-paths-iii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0621-task-scheduler](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0826-most-profit-assigning-work](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0826-most-profit-assigning-work) |
 | [0860-lemonade-change](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0976-largest-perimeter-triangle) |
