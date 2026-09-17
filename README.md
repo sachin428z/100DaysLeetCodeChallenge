@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [3248-snake-in-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3248-snake-in-matrix) |
 | [3330-find-the-original-typed-string-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3330-find-the-original-typed-string-i) |
 | [3412-find-mirror-score-of-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3412-find-mirror-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3794-reverse-string-prefix) |
@@ -874,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2810-faulty-keyboard](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2810-faulty-keyboard) |
 | [3248-snake-in-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3248-snake-in-matrix) |
 | [3412-find-mirror-score-of-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3412-find-mirror-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3925-concatenate-array-with-reverse) |
