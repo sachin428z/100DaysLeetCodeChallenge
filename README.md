@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2942-find-words-containing-character](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2942-find-words-containing-character) |
+| [2965-find-missing-and-repeated-values](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2965-find-missing-and-repeated-values](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1631-path-with-minimum-effort) |
+| [2965-find-missing-and-repeated-values](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Monotonic Stack
@@ -776,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2600-k-items-with-the-maximum-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2843-count-symmetric-integers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2843-count-symmetric-integers) |
 | [2928-distribute-candies-among-children-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2928-distribute-candies-among-children-i) |
+| [2965-find-missing-and-repeated-values](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
