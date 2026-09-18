@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2716-minimize-string-length](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2716-minimize-string-length) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2418-sort-the-people) |
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2546-apply-bitwise-operations-to-make-strings-equal) |
+| [2716-minimize-string-length](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2716-minimize-string-length) |
 | [2810-faulty-keyboard](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2942-find-words-containing-character) |
