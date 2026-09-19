@@ -755,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1323-maximum-69-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1688-count-of-matches-in-tournament) |
@@ -1183,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1030-matrix-cells-in-distance-order](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3899-angles-of-a-triangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3899-angles-of-a-triangle) |
