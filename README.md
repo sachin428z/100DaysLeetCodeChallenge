@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2185-counting-words-with-a-given-prefix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2315-count-asterisks](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2325-decode-the-message) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2418-sort-the-people) |
