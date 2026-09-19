@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2089-find-target-indices-after-sorting-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2090-k-radius-subarray-averages) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2055-plates-between-candles](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2055-plates-between-candles) |
 | [2103-rings-and-rods](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2103-rings-and-rods) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
