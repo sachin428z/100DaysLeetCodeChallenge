@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3110-score-of-a-string) |
 | [3248-snake-in-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3248-snake-in-matrix) |
+| [3280-convert-date-to-binary](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3280-convert-date-to-binary) |
 | [3330-find-the-original-typed-string-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3330-find-the-original-typed-string-i) |
 | [3412-find-mirror-score-of-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3412-find-mirror-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3498-reverse-degree-of-a-string) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2928-distribute-candies-among-children-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2928-distribute-candies-among-children-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3280-convert-date-to-binary](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
