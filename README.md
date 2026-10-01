@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3412-find-mirror-score-of-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3412-find-mirror-score-of-a-string) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [3280-convert-date-to-binary](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3280-convert-date-to-binary) |
 | [3330-find-the-original-typed-string-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3330-find-the-original-typed-string-i) |
 | [3412-find-mirror-score-of-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3412-find-mirror-score-of-a-string) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2833-furthest-point-from-origin](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3467-transform-array-by-parity](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3866-first-unique-even-element](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3866-first-unique-even-element) |
