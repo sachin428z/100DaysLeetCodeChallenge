@@ -17,11 +17,11 @@ public:
                 maxOpen++;
             }
 
+             // minOpen can't be negative
+            if(minOpen<0) minOpen=0;
+            
             // If maxOpen goes negative, too many closing brackets
             if (maxOpen < 0) return false;
-
-            // minOpen can't be negative
-            if(minOpen<0) minOpen=0;
         }
 
         // String is valid if all opens are closed
