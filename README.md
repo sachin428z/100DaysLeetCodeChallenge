@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0844-backspace-string-compare](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1106-parsing-a-boolean-expression](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1106-parsing-a-boolean-expression) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0682-baseball-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1106-parsing-a-boolean-expression](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1106-parsing-a-boolean-expression) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0807-max-increase-to-keep-city-skyline](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0826-most-profit-assigning-work](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0826-most-profit-assigning-work) |
 | [0860-lemonade-change](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1323-maximum-69-number) |
@@ -1313,6 +1316,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0022-generate-parentheses](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Longest Common Subsequence
