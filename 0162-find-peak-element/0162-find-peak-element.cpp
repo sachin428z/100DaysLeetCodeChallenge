@@ -1,24 +1,19 @@
 class Solution {
 public:
     int findPeakElement(vector<int>& nums) {
-         int low = 0, high = nums.size() - 1;
+        int n=nums.size();
+        int low=0, high=n-1;
 
-        // Binary search loop
-        while (low < high) {
-            // Find mid point
-            int mid = (low + high) / 2;
+        while (low<high) {
+            int mid=(low+high)/2;
 
-            // If mid element is greater than next
-            if (nums[mid] > nums[mid + 1]) {
-                // Move to left half
-                high = mid;
+            if (nums[mid]>nums[mid + 1]) {
+                high=mid;
             } else {
-                // Move to right half
-                low = mid + 1;
+                low=mid+1;
             }
         }
 
-        // Return peak index
-        return  low;
+        return low;
     }
 };
