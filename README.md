@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2161-partition-array-according-to-given-pivot](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2179-count-good-triplets-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2179-count-good-triplets-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
