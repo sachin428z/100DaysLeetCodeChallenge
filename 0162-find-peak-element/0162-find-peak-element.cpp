@@ -7,13 +7,12 @@ public:
         while (low<high) {
             int mid=(low+high)/2;
 
-            if (nums[mid]>nums[mid + 1]) {
-                high=mid;
+            if (nums[mid]<nums[mid+1]) {
+                low=mid+1;  
             } else {
-                low=mid+1;
+                high=mid;   // mid itself may already be a peak,
             }
         }
-
         return low;
     }
 };
