@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2942-find-words-containing-character](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2942-find-words-containing-character) |
+| [2951-find-the-peaks](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2965-find-missing-and-repeated-values) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -1170,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2552-count-increasing-quadruplets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2552-count-increasing-quadruplets) |
 | [2843-count-symmetric-integers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2843-count-symmetric-integers) |
 | [2928-distribute-candies-among-children-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2928-distribute-candies-among-children-i) |
+| [2951-find-the-peaks](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Database
