@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0500-keyboard-row) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0191-number-of-1-bits](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0307-range-sum-query-mutable](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [1649-create-sorted-array-through-instructions](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1649-create-sorted-array-through-instructions) |
 | [2179-count-good-triplets-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2179-count-good-triplets-in-an-array) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2407-longest-increasing-subsequence-ii) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0278-first-bad-version](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
@@ -971,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1649-create-sorted-array-through-instructions](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1649-create-sorted-array-through-instructions) |
 | [2179-count-good-triplets-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2179-count-good-triplets-in-an-array) |
@@ -981,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1649-create-sorted-array-through-instructions](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1649-create-sorted-array-through-instructions) |
 | [2179-count-good-triplets-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2179-count-good-triplets-in-an-array) |
@@ -1235,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [1649-create-sorted-array-through-instructions](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1649-create-sorted-array-through-instructions) |
 | [2179-count-good-triplets-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2179-count-good-triplets-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1243,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [1649-create-sorted-array-through-instructions](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1649-create-sorted-array-through-instructions) |
 | [2179-count-good-triplets-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2179-count-good-triplets-in-an-array) |
 ## Game Theory
@@ -1339,4 +1346,8 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
