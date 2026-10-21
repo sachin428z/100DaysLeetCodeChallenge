@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1711-count-good-meals](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1711-count-good-meals) |
 | [1732-find-the-highest-altitude](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1656-design-an-ordered-stream](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1656-design-an-ordered-stream) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1711-count-good-meals](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1711-count-good-meals) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
