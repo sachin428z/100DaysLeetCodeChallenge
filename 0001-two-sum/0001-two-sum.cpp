@@ -1,15 +1,16 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int, int> hash;
-        for (int j = 0; j < nums.size(); ++j) {
-            int complement = target - nums[j];
-            if (hash.find(complement) != hash.end()) {
-                return {hash[complement], j};
-            }
-            hash[nums[j]] = j;
+        int n=nums.size();
+        unordered_map<int, int> hash; // O(N or N^2) // map<int,int> mpp;O(Nlog n)
+        
+        for (int i=0;i<n;i++) {
+            int num=nums[i];
+            int complement=target-num;
+            if (hash.find(complement)!=hash.end()) return {hash[complement],i};
+            hash[num]=i;
         }
-        // Return an empty vector if no solution is found
+
         return {};
     }
 };
