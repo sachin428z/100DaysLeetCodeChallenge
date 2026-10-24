@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [3483-unique-3-digit-even-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3523-make-array-non-decreasing](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3523-make-array-non-decreasing) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3701-compute-alternating-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3866-first-unique-even-element) |
@@ -1040,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2401-longest-nice-subarray](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2401-longest-nice-subarray) |
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2546-apply-bitwise-operations-to-make-strings-equal) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Recursion
 |  |
 | ------- |
