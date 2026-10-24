@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2255-count-prefixes-of-a-given-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2315-count-asterisks](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2325-decode-the-message) |
+| [2409-count-days-spent-together](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2409-count-days-spent-together) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2418-sort-the-people) |
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2546-apply-bitwise-operations-to-make-strings-equal) |
@@ -817,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2180-count-integers-with-even-digit-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2396-strictly-palindromic-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
