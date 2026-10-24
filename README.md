@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2315-count-asterisks](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2325-decode-the-message) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1903-largest-odd-number-in-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3523-make-array-non-decreasing](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3523-make-array-non-decreasing) |
