@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2039-the-time-when-the-network-becomes-idle) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2055-plates-between-candles](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2055-plates-between-candles) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0494-target-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1038,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2401-longest-nice-subarray](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2401-longest-nice-subarray) |
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2546-apply-bitwise-operations-to-make-strings-equal) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -1200,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
 | [1995-count-special-quadruplets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1995-count-special-quadruplets) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2427-number-of-common-factors) |
