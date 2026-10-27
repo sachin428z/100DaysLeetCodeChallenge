@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0208-implement-trie-prefix-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0299-bulls-and-cows) |
@@ -1026,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 | [0705-design-hashset](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
 ## Bit Manipulation
@@ -1201,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Enumeration
@@ -1314,10 +1317,12 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -1385,4 +1390,12 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
