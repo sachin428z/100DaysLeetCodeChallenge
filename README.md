@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1711-count-good-meals](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1711-count-good-meals) |
 | [1732-find-the-highest-altitude](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -1049,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1143,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0211-design-add-and-search-words-data-structure](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Union-Find
 |  |
