@@ -1,16 +1,14 @@
 class TrieNode {
 public:
     TrieNode* children[2];
-
     TrieNode() {
-        children[0] = children[1] = nullptr;
+        children[0]=children[1]=nullptr;
     }
 };
 
 class BinaryTrie {
 private:
     TrieNode* root;
-
 public:
     BinaryTrie() {
         root = new TrieNode();
@@ -18,14 +16,11 @@ public:
 
     void insert(int num) {
         TrieNode* node = root;
-
         for (int bit = 30; bit >= 0; bit--) {
             int currentBit = (num >> bit) & 1;
-
             if (node->children[currentBit] == nullptr) {
                 node->children[currentBit] = new TrieNode();
             }
-
             node = node->children[currentBit];
         }
     }
@@ -66,9 +61,7 @@ public:
                 i
             });
         }
-
         sort(offlineQueries.begin(), offlineQueries.end());
-
         BinaryTrie trie;
         int index = 0;
 
@@ -82,7 +75,6 @@ public:
                 trie.insert(nums[index]);
                 index++;
             }
-
             if (index == 0) {
                 answer[originalIndex] = -1;
             } else {
