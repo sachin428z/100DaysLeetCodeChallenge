@@ -1093,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0872-leaf-similar-trees) |
@@ -1110,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0144-binary-tree-preorder-traversal](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0872-leaf-similar-trees) |
@@ -1141,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Trie
 |  |
