@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0127-word-ladder](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0187-repeated-dna-sequences) |
@@ -959,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
@@ -992,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0143-reorder-list](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
@@ -1429,4 +1432,8 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
