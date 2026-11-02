@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1684-count-the-number-of-consistent-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1711-count-good-meals](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1711-count-good-meals) |
+| [1720-decode-xored-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -1064,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1720-decode-xored-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2220-minimum-bit-flips-to-convert-number) |
