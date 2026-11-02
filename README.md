@@ -1066,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2401-longest-nice-subarray](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2401-longest-nice-subarray) |
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2546-apply-bitwise-operations-to-make-strings-equal) |
