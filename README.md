@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0066-plus-one](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0020-valid-parentheses](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -1422,4 +1425,8 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
