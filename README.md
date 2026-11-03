@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0042-trapping-rain-water](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
@@ -758,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | ------- |
 | [0022-generate-parentheses](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0126-word-ladder-ii) |
@@ -1448,6 +1450,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
