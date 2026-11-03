@@ -1444,4 +1444,12 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0146-lru-cache) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
