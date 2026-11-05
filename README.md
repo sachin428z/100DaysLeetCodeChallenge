@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0976-largest-perimeter-triangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1030-matrix-cells-in-distance-order](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1030-matrix-cells-in-distance-order) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0922-sort-array-by-parity-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0852-peak-index-in-a-mountain-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1631-path-with-minimum-effort](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1631-path-with-minimum-effort) |
 | [1649-create-sorted-array-through-instructions](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1649-create-sorted-array-through-instructions) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1793-maximum-score-of-a-good-subarray) |
