@@ -1416,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 ## Ternary Search
 |  |
