@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0890-find-and-replace-pattern](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1092-shortest-common-supersequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1106-parsing-a-boolean-expression) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0787-cheapest-flights-within-k-stops](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0808-soup-servings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0808-soup-servings) |
 | [0877-stone-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+| [1092-shortest-common-supersequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -1417,6 +1419,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 ## Ternary Search
 |  |
