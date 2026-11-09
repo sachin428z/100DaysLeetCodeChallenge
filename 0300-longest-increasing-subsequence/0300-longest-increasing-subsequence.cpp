@@ -1,36 +1,34 @@
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
-        vector<int> res;
 
-        for (int n : nums) {
-            if (res.empty() || res.back() < n) {
-                res.push_back(n);
-            } else {
-                int idx = binarySearch(res, n);
-                res[idx] = n;
+        int n = nums.size();
+
+        vector<int> temp = nums;
+
+        // Step 1: Sort the array
+        sort(temp.begin(), temp.end());
+
+        // Step 2: Remove duplicates
+        temp.erase(unique(temp.begin(), temp.end()), temp.end());
+
+        int m = temp.size();
+
+        // Step 3: LCS DP
+        vector<vector<int>> dp(n+1, vector<int>(m+1, 0));
+
+        for(int i = 1; i <= n; i++) {
+            for(int j = 1; j <= m; j++) {
+
+                if(nums[i-1] == temp[j-1]) {
+                    dp[i][j] = 1 + dp[i-1][j-1];
+                }
+                else {
+                    dp[i][j] = max(dp[i-1][j], dp[i][j-1]);
+                }
             }
         }
 
-        return res.size();        
+        return dp[n][m];
     }
-
-private:
-    int binarySearch(const vector<int>& arr, int target) {
-        int left = 0;
-        int right = arr.size() - 1;
-
-        while (left <= right) {
-            int mid = (left + right) / 2;
-            if (arr[mid] == target) {
-                return mid;
-            } else if (arr[mid] > target) {
-                right = mid - 1;
-            } else {
-                left = mid + 1;
-            }
-        }
-
-        return left;
-    }    
 };
