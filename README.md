@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0020-valid-parentheses](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0022-generate-parentheses](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0435-non-overlapping-intervals](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
@@ -1090,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | ------- |
 | [0002-add-two-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
