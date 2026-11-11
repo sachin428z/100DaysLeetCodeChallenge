@@ -763,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2600-k-items-with-the-maximum-sum](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3523-make-array-non-decreasing](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3523-make-array-non-decreasing) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Backtracking
 |  |
 | ------- |
@@ -873,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3894-traffic-signal-color) |
 | [3899-angles-of-a-triangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3899-angles-of-a-triangle) |
