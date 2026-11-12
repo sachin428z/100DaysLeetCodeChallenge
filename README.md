@@ -563,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2000-reverse-prefix-of-word) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -1025,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0876-middle-of-the-linked-list](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Indexed Tree
