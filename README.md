@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0066-plus-one](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0044-wildcard-matching](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0036-valid-sudoku](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0037-sudoku-solver](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
@@ -885,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
