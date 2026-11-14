@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0890-find-and-replace-pattern](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1092-shortest-common-supersequence](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1106-parsing-a-boolean-expression) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -842,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0989-add-to-array-form-of-integer](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [1030-matrix-cells-in-distance-order](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1037-valid-boomerang) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1411,11 +1413,13 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0858-mirror-reflection) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Least Common Multiple
 |  |
