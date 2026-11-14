@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [3248-snake-in-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3248-snake-in-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3364-minimum-positive-sum-subarray) |
 | [3467-transform-array-by-parity](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3523-make-array-non-decreasing](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3523-make-array-non-decreasing) |
@@ -806,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -1223,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [2552-count-increasing-quadruplets](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2552-count-increasing-quadruplets) |
 | [2574-left-and-right-sum-differences](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/3904-smallest-stable-index-ii) |
 ## Interactive
