@@ -1,21 +1,28 @@
 class Solution {
 public:
-    bool isVowel(char ch) {
-        return (ch=='a' || ch=='e' || ch=='i' || ch=='o' || ch=='u' || ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U');
+    bool vowels_check(char ch) {
+        ch = tolower(ch);
+        if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u')
+            return true;
+        else
+            return false;
     }
-
     string reverseVowels(string s) {
-        int n=s.size();
-        int left=0;
-        int right=n-1;
+        int i = 0;
+        int j = s.length();
 
-        while(left<right) {
-            while(left<right && !isVowel(s[left])) left++;
-            while(left<right && !isVowel(s[right])) right--;
-        
-        swap(s[left],s[right]);
-        left++;
-        right--;
+        while (i < j) {
+
+            // Left side par vowel find karo
+            while (i < j && !vowels_check(s[i]))
+                i++;
+
+            // Right side par vowel find karo
+            while (i < j && !vowels_check(s[j]))
+                j--;
+
+            // Ab dono vowels hi hai
+            swap(s[i++], s[j--]);
         }
         return s;
     }
