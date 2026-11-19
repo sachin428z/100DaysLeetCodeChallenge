@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0532-k-diff-pairs-in-an-array](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0566-reshape-the-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0304-range-sum-query-2d-immutable](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0778-swim-in-rising-water) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -977,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - (https://githu
 | [0289-game-of-life](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sachin428z/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
